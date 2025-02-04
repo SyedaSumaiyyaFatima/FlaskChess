@@ -6,13 +6,13 @@ logic of the backend chessboard. All calculation is done on the backend using py
 
 In order to run this application on your own machine, please install flask and python chess.
 
-#Install flask by running:
+# Install flask by running:
     pip install flask
 
-#Install python chess by running:
+# Install python chess by running:
     pip install python-chess[uci,gaviota]
 
-#Project Structure
+# Project Structure
 app/: Contains the main Flask application and its modules.
 static/: Static files (CSS, JS, images).
 templates/: HTML templates for rendering web pages.
@@ -23,13 +23,13 @@ migrations/: Database migration files.
 config.py: Configuration settings for the Flask application.
 requirements.txt: List of dependencies needed to run the project.
 
-#Usage
+# Usage
 Start a Game: Register or log in to start a new game.
 Make Moves: Click on a piece and then click on the destination square to make a move.
 Game History: View past games from your profile.
 
-#Contributing
-Contributions are welcome! To contribute:
+# Contributing
+Contributions are welcome to contribute.
 
 
 
